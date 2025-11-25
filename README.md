@@ -1,2 +1,1 @@
-# Ecommerce-Sales-Dashboard
-Power BI dashboard showing ecommerce sales performance using state-wise sales, monthly profit trends, payment mode distribution, category-wise quantity, and top customer analysis. Includes KPIs for profit, AOV, total sales amount, and total quantity with interactive filters.
+This project is a Power BI dashboard built to analyze ecommerce sales performance. It includes KPIs for profit, AOV, total sales amount, and quantity sold. The report covers state-wise sales, monthly profit, payment mode split, category-wise quantity, sub-category profit, and top customers. The dashboard is fully interactive with slicers for quarters and categories.
